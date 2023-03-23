@@ -1,5 +1,5 @@
 import java.util.*;  
-public class SecondSmallestInArrayExample2{  
+public class SecondSmallestInArray{  
 public static int getSecondSmallest(Integer[] a, int total){  
 List<Integer> list=Arrays.asList(a);  
 Collections.sort(list);  
